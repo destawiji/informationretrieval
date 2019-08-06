@@ -1,3 +1,4 @@
+# Kode Untuk menampilkan data training
 X_train
 
 
@@ -18,4 +19,4 @@ X_train
 # 64    will leave my heart at the door I won't say a ...
 # 47    If this is my last night with youHold me like ...
 # 44    Dirimu tak pernah menyadari Semua yang telah k...
-Name: text, Length: 66, dtype: object
+# Name: text, Length: 66, dtype: object
